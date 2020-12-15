@@ -1,0 +1,88 @@
+.login_bg {
+  position: relative;
+  background: url('../../img/authpic.jpg') no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.log_btn {
+  text-align: center;
+  border: none;
+  text-decoration: none;
+  height: 34px;
+  color: white;
+  background-color: #c89a69;
+  width: 75%;
+  margin-top: 20px;
+}
+.log_text {
+  border: none;
+  border-bottom: 1px solid white;
+  text-align: center;
+  width: 75%;
+  margin-bottom: 7%;
+  height: 51px;
+  text-decoration: none;
+  background-color: #fff0;
+  color: white;
+}
+
+#log_link {
+  text-decoration: none;
+  color: white;
+}
+
+.login_form_div1{
+  text-align: center;
+  /* float: right; */
+  position: absolute;
+  top: 23%;
+  left: 30%;
+  width: 40%;
+  height: 70%;
+  background-color: #313131;
+  opacity: 0.9;
+  padding: 1%;
+}
+
+.login_hr {
+  border-block-color: black;
+
+  border-width: 2px;
+  padding-top: 3%;
+  width: 25%;
+  padding-left: 2%;
+}
+
+.login_img {
+  float: right;
+  width: 50%;
+  text-align: center;
+  margin-top: 18%;
+
+  margin-right: 5%;
+}
+.login_gif {
+  alt: 'hey-01';
+  border: '0';
+  width: 65%;
+}
+.login_intro {
+  text-align: center;
+  position: absolute;
+
+  top: 20%;
+
+  left: 59%;
+  font-family: Futura Md BT;
+  font-size: xx-large;
+}
+
+.futura {
+  font-family: 'Rokkitt';
+  color: white;
+  font-size: 3rem;
+}
+
+.futuraa {
+  color: #c89a69;
+}

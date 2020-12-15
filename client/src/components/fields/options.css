@@ -1,0 +1,220 @@
+.cuisine_bgg {
+  position: relative;
+  background-color: #e6d9cc;
+
+  background-repeat: repeat-y;
+}
+.rowtop {
+  background-color: white;
+  text-align: center;
+  margin: 0%;
+  height: 22%;
+}
+.nextattri {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.small_logo {
+  alt: 'Logo-01';
+  border: '0';
+  width: 41%;
+}
+.cuisine_hr {
+  border-block-color: black;
+  border-width: 2px;
+  width: 40%;
+}
+.awesomearrow {
+  font-size: 70%;
+}
+.rowtopcol1 {
+  margin-top: 1%;
+  text-align: left;
+}
+.rowtopcol2 {
+  margin-top: 1%;
+}
+.rowtopcol3 {
+  font-family: Karla;
+  font-size: 24px;
+  margin-top: 4%;
+  padding-left: 14%;
+}
+.futura_span {
+  font-family: futura Md BT;
+  font-size: 24pt;
+}
+.row {
+  margin: 0%;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 57%;
+  width: 55%;
+  opacity: 0;
+  transition: 0.5s ease;
+  background-color: #000000;
+  margin: auto;
+  margin-top: 0%;
+}
+
+.recipe:hover .overlay {
+  opacity: 0.7;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+#tick1 {
+  display: none;
+}
+.karla_span {
+  font-family: karla;
+  margin-top: 6%;
+  font-size: 20px;
+  margin-left: 3%;
+}
+
+.cuisinelogo {
+  margin-top: 1%;
+  text-align: left;
+}
+.cuisinetoprow {
+  background-color: white;
+  text-align: center;
+  margin: 0%;
+  height: 22%;
+}
+.cuisinelogocont {
+  width: 41%;
+}
+.cusinerow1col2 {
+  margin-top: 3%;
+}
+.cuisineheadfutura {
+  font-family: Rokkitt;
+  font-size: 50px;
+}
+.cuisinehr1 {
+  border-block-color: black;
+  border-width: 2px;
+  width: 40%;
+}
+.cuisinenext {
+  font-family: Karla;
+  font-size: 24px;
+  margin-top: 4%;
+  padding-left: 14%;
+  padding-top: 1%;
+}
+
+.cuisinerow2col1cont {
+  background-color: white;
+  width: 100%;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 5px;
+  height: 100%;
+  margin: auto;
+}
+.cuisinerow2col1cont:hover {
+  transition: 0.2s;
+  /* box-shadow: 5px 5px 5px #e6d9cc; */
+  /* border: 2px solid #777; */
+}
+
+.ak1 {
+  text-align: center;
+  /* float: right; */
+  position: absolute;
+  top: 20%;
+  left: 10%;
+
+  width: 80%;
+  height: 130%;
+  background-color: #313131;
+  opacity: 0.9;
+}
+
+.ak585 {
+  text-align: center;
+  /* float: right; */
+  position: absolute;
+  top: 20%;
+  left: 10%;
+
+  width: 80%;
+  height: 140%;
+  background-color: #313131;
+  opacity: 0.9;
+}
+.cuisineinput {
+  margin-top: 16px;
+  border: 2px dotted #00f;
+  display: block;
+  background: #ff0000;
+}
+.cuisinesavebtn {
+  top: 10%;
+  right: 8%;
+  color: white;
+  font-family: sans-serif;
+  background-color: black;
+  border: none;
+  padding: 6px;
+  width: 100px;
+  height: 50px;
+}
+.cuisineimg2 {
+  width: 145%;
+  margin-left: -20%;
+}
+.cuisinekarla {
+  font-family: Rokkitt;
+  margin-top: 6%;
+  font-size: 18px;
+  margin-left: 3%;
+}
+.cuisinerow2col2 {
+  background-color: white;
+  width: 50%;
+  height: 108%;
+  margin: auto;
+}
+.cuisineimg3 {
+  width: 145%;
+  margin-left: -20%;
+}
+
+.futura {
+  font-family: 'Rokkitt';
+  color: white;
+  font-size: 3rem;
+}
+
+.futuraa {
+  color: #c89a69;
+}
